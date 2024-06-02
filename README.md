@@ -1,4 +1,3 @@
-Invest in Egypt
 Introduction
 "Invest in Egypt" is a web project designed to provide a comprehensive platform for potential investors to explore investment opportunities in Egypt. Built using HTML, CSS, JavaScript, Bootstrap, and jQuery, this site offers an interactive and user-friendly interface.
 
